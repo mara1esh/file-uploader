@@ -1,0 +1,8 @@
+body {
+  font: sans-serif;
+  background-color: gainsboro;
+}
+.wrapper {
+  background-color: #fff;
+  min-height: 100vh;
+}
